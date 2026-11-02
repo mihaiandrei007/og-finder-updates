@@ -1,9 +1,9 @@
 {
- "version": "2026-11-02.a0132b5",
- "commit": "a0132b5dc3",
- "at": 1793643191098,
- "notes": "Hot hides the coins bots trade and the ones a few wallets hold (too few holders, or ten wallets with 70 %+); Hot by people buying now; DEX paid and boosts",
- "file": "packages/og-finder-2026-11-02.a0132b5.enc",
- "sha256": "e3295c582f30a9df6e248d1a93c68188d8e726c1d552202b1ccb18ebcfd3252d",
- "size": 912459
+ "version": "2026-11-02.74e8216",
+ "commit": "74e821612c",
+ "at": 1793645397653,
+ "notes": "The wallet is valued even when its coins or DexScreener cannot be read, and says why when it is not; Hot hides botted coins and the ones a few wallets hold",
+ "file": "packages/og-finder-2026-11-02.74e8216.enc",
+ "sha256": "db4f08da767d43a2e5072c337fde033f72613cf2a3fce61c5a19901692a1ee33",
+ "size": 913193
 }
