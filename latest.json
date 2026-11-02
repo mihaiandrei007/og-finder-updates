@@ -1,9 +1,9 @@
 {
- "version": "2026-11-02.0b18726",
- "commit": "0b187268e3",
- "at": 1793628021114,
- "notes": "Hot: the pump.fun coins moving now, those made with launch tools too; less junk: a coin going nowhere on its curve is hidden until it moves; your wallet can be changed from the profile (👤)",
- "file": "packages/og-finder-2026-11-02.0b18726.enc",
- "sha256": "c8401bcbcb3d4a54348781d7d28d7e8954267b648e00705cd5df7bafc426cc85",
- "size": 897446
+ "version": "2026-11-02.0babcdd",
+ "commit": "0babcdd435",
+ "at": 1793628758574,
+ "notes": "Red flags: a coin whose whole curve was bought out at its launch (bought out), and a hot coin the same wallets keep buying (bot volume); Hot, less junk, your wallet from the profile (👤)",
+ "file": "packages/og-finder-2026-11-02.0babcdd.enc",
+ "sha256": "79c9b741dec3241e2de0a9f9534c4fa73842a46fdf5fc19d28dd69cc4a6cc4a5",
+ "size": 908661
 }
