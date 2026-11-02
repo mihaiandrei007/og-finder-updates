@@ -1,9 +1,9 @@
 {
- "version": "2026-11-02.3266322",
- "commit": "32663221a1",
- "at": 1793647431151,
- "notes": "More botted coins caught: churn in Hot (trades per holder), bot volume and holding bundles as red flags on the curve; mute a dev",
- "file": "packages/og-finder-2026-11-02.3266322.enc",
- "sha256": "02fcbafa09c1c50def5dfcacd545912e05be426f86f9986181ae150044d5c208",
- "size": 918563
+ "version": "2026-11-02.a46311a",
+ "commit": "a46311a777",
+ "at": 1793657223490,
+ "notes": "Reports: the tests running on the terminal (Mihai on paper with 12, 5, 3 and 1 % thresholds; whether it catches the hype); more botted coins caught; mute a dev",
+ "file": "packages/og-finder-2026-11-02.a46311a.enc",
+ "sha256": "81dc57d3ff8ef1a7f7044fbed310e940db15506cbf102ae00205d0b2648f2d01",
+ "size": 944446
 }
