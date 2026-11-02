@@ -1,9 +1,9 @@
 {
- "version": "2026-11-02.74e8216",
- "commit": "74e821612c",
- "at": 1793645397653,
- "notes": "The wallet is valued even when its coins or DexScreener cannot be read, and says why when it is not; Hot hides botted coins and the ones a few wallets hold",
- "file": "packages/og-finder-2026-11-02.74e8216.enc",
- "sha256": "db4f08da767d43a2e5072c337fde033f72613cf2a3fce61c5a19901692a1ee33",
- "size": 913193
+ "version": "2026-11-02.c1de133",
+ "commit": "c1de133d0e",
+ "at": 1793647089666,
+ "notes": "Mute this dev (coin panel): their launches never ring, their coins are hidden; watched wallets ring once in six hours; the wallet valued even when its coins cannot be read",
+ "file": "packages/og-finder-2026-11-02.c1de133.enc",
+ "sha256": "bea7142313ecbf2ac331455c66df8e9c934d7db475d45bdfba7c1c49e202946d",
+ "size": 916269
 }
