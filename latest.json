@@ -1,9 +1,9 @@
 {
- "version": "2026-11-02.8919ad7",
- "commit": "8919ad76f6",
- "at": 1793631682282,
- "notes": "Your wallet is read on an RPC of its own, so its chart and your trades are not crowded out; a gold dev rings once in six hours; red flags for a curve bought out at launch and for bot volume; Hot",
- "file": "packages/og-finder-2026-11-02.8919ad7.enc",
- "sha256": "7ab9b6caa5488dcfbf9338a85dce1358be77a79a1c00999c9a2be076b783bfef",
- "size": 899648
+ "version": "2026-11-02.a9a0274",
+ "commit": "a9a0274024",
+ "at": 1793636033688,
+ "notes": "Gold devs spraying coins (three a day or more) leave the gold band and no longer ring; no ring for a gold dev's coin with a red flag; your wallet on its own RPC; Hot, red flags",
+ "file": "packages/og-finder-2026-11-02.a9a0274.enc",
+ "sha256": "662fd1310db34ac0c0e8a0c156e0f1a6f43caf04368a3e8cc6cd05f086804c9f",
+ "size": 900929
 }
