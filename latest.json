@@ -1,9 +1,9 @@
 {
- "version": "2026-11-02.d5285ee",
- "commit": "d5285eee73",
- "at": 1793641386044,
- "notes": "Hot by people buying now (buyers in 5 minutes), read every minute; DEX paid, boost and CTO chips; gold devs spraying coins left out; your wallet on its own RPC",
- "file": "packages/og-finder-2026-11-02.d5285ee.enc",
- "sha256": "af2f59c0cef2efc1e262ba30503870bf7d6a891b2db5f3f103242f72eef14d51",
- "size": 904686
+ "version": "2026-11-02.a0132b5",
+ "commit": "a0132b5dc3",
+ "at": 1793643191098,
+ "notes": "Hot hides the coins bots trade and the ones a few wallets hold (too few holders, or ten wallets with 70 %+); Hot by people buying now; DEX paid and boosts",
+ "file": "packages/og-finder-2026-11-02.a0132b5.enc",
+ "sha256": "e3295c582f30a9df6e248d1a93c68188d8e726c1d552202b1ccb18ebcfd3252d",
+ "size": 912459
 }
