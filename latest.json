@@ -1,9 +1,9 @@
 {
- "version": "2026-11-02.21b1a09",
- "commit": "21b1a09e30",
- "at": 1793627586691,
+ "version": "2026-11-02.0b18726",
+ "commit": "0b187268e3",
+ "at": 1793628021114,
  "notes": "Hot: the pump.fun coins moving now, those made with launch tools too; less junk: a coin going nowhere on its curve is hidden until it moves; your wallet can be changed from the profile (👤)",
- "file": "packages/og-finder-2026-11-02.21b1a09.enc",
- "sha256": "1a24ec536be64827747670cf57a4302f1751e4c8561bcd37057f289e53d1c4ce",
- "size": 897438
+ "file": "packages/og-finder-2026-11-02.0b18726.enc",
+ "sha256": "c8401bcbcb3d4a54348781d7d28d7e8954267b648e00705cd5df7bafc426cc85",
+ "size": 897446
 }
