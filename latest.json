@@ -1,9 +1,9 @@
 {
- "version": "2026-11-03.da85ac5",
- "commit": "da85ac5fc0",
- "at": 1793682859564,
- "notes": "Potential ranks by the measured model (the paper tests at 5, 3 and 1 % now trade apart); the hype measurement starts by itself with the paper tests",
- "file": "packages/og-finder-2026-11-03.da85ac5.enc",
- "sha256": "fffbc3ed2c4fad90bf705aae322062e06bf5221ed2dfb897f2fb739afabfc823",
- "size": 945341
+ "version": "2026-11-03.3857fdc",
+ "commit": "3857fdcb31",
+ "at": 1793684559746,
+ "notes": "The journal sees the pump.fun app's trades (the last 5 days read once), each closed trade gets its lesson; Reports, Your trades",
+ "file": "packages/og-finder-2026-11-03.3857fdc.enc",
+ "sha256": "66570fe34ba75612cd128c1c64b87fa778c9913b65c1e30d7c17b1b4402c44be",
+ "size": 959453
 }
