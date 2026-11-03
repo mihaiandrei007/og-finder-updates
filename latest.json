@@ -1,9 +1,9 @@
 {
- "version": "2026-11-03.99353f9",
- "commit": "99353f9db8",
- "at": 1793685847595,
- "notes": "Your trades: the pump.fun app's transactions (version 1) are read; the journal no longer stops at one it cannot read",
- "file": "packages/og-finder-2026-11-03.99353f9.enc",
- "sha256": "bc117ec32f59c8ebaf417498e1babe81fd432fd6307d4283fe19212baac12154",
- "size": 960459
+ "version": "2026-11-03.b7b15a2",
+ "commit": "b7b15a244b",
+ "at": 1793686946164,
+ "notes": "Your trades: each closed one's lesson (seconds, stop-loss orders, sold before it rose), each coin's own candles; a SOL-dollar swap is no deposit",
+ "file": "packages/og-finder-2026-11-03.b7b15a2.enc",
+ "sha256": "61fe1a49ba0d62830790889a39e9778865342be81f6b286e6183062a455d2cf3",
+ "size": 961753
 }
