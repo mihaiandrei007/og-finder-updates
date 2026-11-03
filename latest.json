@@ -1,9 +1,9 @@
 {
- "version": "2026-11-02.a46311a",
- "commit": "a46311a777",
- "at": 1793657223490,
- "notes": "Reports: the tests running on the terminal (Mihai on paper with 12, 5, 3 and 1 % thresholds; whether it catches the hype); more botted coins caught; mute a dev",
- "file": "packages/og-finder-2026-11-02.a46311a.enc",
- "sha256": "81dc57d3ff8ef1a7f7044fbed310e940db15506cbf102ae00205d0b2648f2d01",
- "size": 944446
+ "version": "2026-11-03.da85ac5",
+ "commit": "da85ac5fc0",
+ "at": 1793682859564,
+ "notes": "Potential ranks by the measured model (the paper tests at 5, 3 and 1 % now trade apart); the hype measurement starts by itself with the paper tests",
+ "file": "packages/og-finder-2026-11-03.da85ac5.enc",
+ "sha256": "fffbc3ed2c4fad90bf705aae322062e06bf5221ed2dfb897f2fb739afabfc823",
+ "size": 945341
 }
