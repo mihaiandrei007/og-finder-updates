@@ -1,9 +1,9 @@
 {
- "version": "2026-11-03.95add98",
- "commit": "95add9866a",
- "at": 1793700678549,
- "notes": "Already pumped: a ×N chip before you buy, with your record after such runs; your trades seen within seconds; the empty token accounts' rent in the wallet view",
- "file": "packages/og-finder-2026-11-03.95add98.enc",
- "sha256": "f4b0d87f7c37b6a713c1f9867d48eea5345e3625abcae8026d1e55ac0136476f",
- "size": 972927
+ "version": "2026-11-03.f34e076",
+ "commit": "f34e076837",
+ "at": 1793707222056,
+ "notes": "Seven paper variants (other exits, your own way, Hot with and without pumped coins); Reports: Labels & alerts, What it learned",
+ "file": "packages/og-finder-2026-11-03.f34e076.enc",
+ "sha256": "872e620277f528d1db3372b5f3a80ac9ed0f992aca61e4b5d2f94b2fb27d8702",
+ "size": 977833
 }
