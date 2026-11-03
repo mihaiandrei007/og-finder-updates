@@ -1,9 +1,9 @@
 {
- "version": "2026-11-03.f34e076",
- "commit": "f34e076837",
- "at": 1793707222056,
- "notes": "Seven paper variants (other exits, your own way, Hot with and without pumped coins); Reports: Labels & alerts, What it learned",
- "file": "packages/og-finder-2026-11-03.f34e076.enc",
- "sha256": "872e620277f528d1db3372b5f3a80ac9ed0f992aca61e4b5d2f94b2fb27d8702",
- "size": 977833
+ "version": "2026-11-03.a0dc4ea",
+ "commit": "a0dc4eac9b",
+ "at": 1793711804658,
+ "notes": "The exit variants on busier coins (Potential from 3 %); the labels' report shows how high the best tenth went",
+ "file": "packages/og-finder-2026-11-03.a0dc4ea.enc",
+ "sha256": "5b33c1d64a679a3218e24676c479d810e5b057aab53e1e81f4b5753437798cef",
+ "size": 968328
 }
