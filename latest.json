@@ -1,9 +1,9 @@
 {
- "version": "2026-11-03.b7b15a2",
- "commit": "b7b15a244b",
- "at": 1793686946164,
- "notes": "Your trades: each closed one's lesson (seconds, stop-loss orders, sold before it rose), each coin's own candles; a SOL-dollar swap is no deposit",
- "file": "packages/og-finder-2026-11-03.b7b15a2.enc",
- "sha256": "61fe1a49ba0d62830790889a39e9778865342be81f6b286e6183062a455d2cf3",
- "size": 961753
+ "version": "2026-11-03.cf98e4b",
+ "commit": "cf98e4b14f",
+ "at": 1793692264826,
+ "notes": "Your trades' coach: when you buy, how far the coin had run and how your buys after a pump ended, a coin you just sold lower; the stop's alert with your sales at a loss",
+ "file": "packages/og-finder-2026-11-03.cf98e4b.enc",
+ "sha256": "cc3e290a7c6d7210aa4b7cd2564eb2c8338afe5098e13e71e71a7d7cba9dfe02",
+ "size": 964565
 }
