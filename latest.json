@@ -1,9 +1,9 @@
 {
- "version": "2026-11-03.b1a36bd",
- "commit": "b1a36bde5a",
- "at": 1793723631869,
- "notes": "Updates wait until nobody is using the terminal (or night, or six hours); the lessons' candles go on after a GeckoTerminal error",
- "file": "packages/og-finder-2026-11-03.b1a36bd.enc",
- "sha256": "93643100311ea0fc8f4b2f4b3a3bbd3b4fd31407d9bfc73f885d73d704ee751b",
- "size": 962547
+ "version": "2026-11-03.7fe232c",
+ "commit": "7fe232ca53",
+ "at": 1793726054668,
+ "notes": "The terminal comes back by itself after an error or a bad update; today's page at last (lessons in the journal, the coach, the new labels and reports)",
+ "file": "packages/og-finder-2026-11-03.7fe232c.enc",
+ "sha256": "7983aa533ab5270fe9264efe46a31f71b0d16f427d95a49d2d06fb289fdf536d",
+ "size": 971501
 }
