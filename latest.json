@@ -1,9 +1,9 @@
 {
- "version": "2026-11-03.3857fdc",
- "commit": "3857fdcb31",
- "at": 1793684559746,
- "notes": "The journal sees the pump.fun app's trades (the last 5 days read once), each closed trade gets its lesson; Reports, Your trades",
- "file": "packages/og-finder-2026-11-03.3857fdc.enc",
- "sha256": "66570fe34ba75612cd128c1c64b87fa778c9913b65c1e30d7c17b1b4402c44be",
- "size": 959453
+ "version": "2026-11-03.99353f9",
+ "commit": "99353f9db8",
+ "at": 1793685847595,
+ "notes": "Your trades: the pump.fun app's transactions (version 1) are read; the journal no longer stops at one it cannot read",
+ "file": "packages/og-finder-2026-11-03.99353f9.enc",
+ "sha256": "bc117ec32f59c8ebaf417498e1babe81fd432fd6307d4283fe19212baac12154",
+ "size": 960459
 }
