@@ -1,9 +1,9 @@
 {
- "version": "2026-11-03.7fe232c",
- "commit": "7fe232ca53",
- "at": 1793726054668,
- "notes": "The terminal comes back by itself after an error or a bad update; today's page at last (lessons in the journal, the coach, the new labels and reports)",
- "file": "packages/og-finder-2026-11-03.7fe232c.enc",
- "sha256": "7983aa533ab5270fe9264efe46a31f71b0d16f427d95a49d2d06fb289fdf536d",
- "size": 971501
+ "version": "2026-11-03.0ddd633",
+ "commit": "0ddd633893",
+ "at": 1793727049043,
+ "notes": "The terminal comes back by itself after an error or a bad update, and a second start stands aside; today's page at last (lessons in the journal, the coach, the new labels and reports)",
+ "file": "packages/og-finder-2026-11-03.0ddd633.enc",
+ "sha256": "f870c724ffb9fb1bd5f10bf65c8b784cab7ea015dbd245845dca0a77c7680f89",
+ "size": 972052
 }
