@@ -1,9 +1,9 @@
 {
- "version": "2026-11-03.cf98e4b",
- "commit": "cf98e4b14f",
- "at": 1793692264826,
- "notes": "Your trades' coach: when you buy, how far the coin had run and how your buys after a pump ended, a coin you just sold lower; the stop's alert with your sales at a loss",
- "file": "packages/og-finder-2026-11-03.cf98e4b.enc",
- "sha256": "cc3e290a7c6d7210aa4b7cd2564eb2c8338afe5098e13e71e71a7d7cba9dfe02",
- "size": 964565
+ "version": "2026-11-03.ed6f549",
+ "commit": "ed6f549e76",
+ "at": 1793696295576,
+ "notes": "A smarter coach: each lesson says what the exit alerts would have done and what the trade cost; the arming alert and the morning report with your habits; skipped transactions caught",
+ "file": "packages/og-finder-2026-11-03.ed6f549.enc",
+ "sha256": "ad70a89f5f7da760db0bafc7c4a420cc8f4b7c5d3c29bc9bbe2329f43acdfe0c",
+ "size": 970075
 }
