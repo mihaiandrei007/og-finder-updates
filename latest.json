@@ -1,9 +1,9 @@
 {
- "version": "2026-11-03.dc6b846",
- "commit": "dc6b846f71",
- "at": 1793713253373,
- "notes": "Botted coins caught like on a bubble map (one wallet behind many buyers, dust buys, the same buy, wash trading), hidden from Hot",
- "file": "packages/og-finder-2026-11-03.dc6b846.enc",
- "sha256": "8afaaa14ce6aa98651a753700a25873cfad17aa18a4c7237c181cf4e888b23f4",
- "size": 961994
+ "version": "2026-11-03.b1a36bd",
+ "commit": "b1a36bde5a",
+ "at": 1793723631869,
+ "notes": "Updates wait until nobody is using the terminal (or night, or six hours); the lessons' candles go on after a GeckoTerminal error",
+ "file": "packages/og-finder-2026-11-03.b1a36bd.enc",
+ "sha256": "93643100311ea0fc8f4b2f4b3a3bbd3b4fd31407d9bfc73f885d73d704ee751b",
+ "size": 962547
 }
