@@ -1,9 +1,9 @@
 {
- "version": "2026-11-03.ed6f549",
- "commit": "ed6f549e76",
- "at": 1793696295576,
- "notes": "A smarter coach: each lesson says what the exit alerts would have done and what the trade cost; the arming alert and the morning report with your habits; skipped transactions caught",
- "file": "packages/og-finder-2026-11-03.ed6f549.enc",
- "sha256": "ad70a89f5f7da760db0bafc7c4a420cc8f4b7c5d3c29bc9bbe2329f43acdfe0c",
- "size": 970075
+ "version": "2026-11-03.95add98",
+ "commit": "95add9866a",
+ "at": 1793700678549,
+ "notes": "Already pumped: a ×N chip before you buy, with your record after such runs; your trades seen within seconds; the empty token accounts' rent in the wallet view",
+ "file": "packages/og-finder-2026-11-03.95add98.enc",
+ "sha256": "f4b0d87f7c37b6a713c1f9867d48eea5345e3625abcae8026d1e55ac0136476f",
+ "size": 972927
 }
