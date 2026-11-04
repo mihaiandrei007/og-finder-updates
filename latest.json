@@ -1,9 +1,9 @@
 {
- "version": "2026-11-03.0ddd633",
- "commit": "0ddd633893",
- "at": 1793727049043,
- "notes": "The terminal comes back by itself after an error or a bad update, and a second start stands aside; today's page at last (lessons in the journal, the coach, the new labels and reports)",
- "file": "packages/og-finder-2026-11-03.0ddd633.enc",
- "sha256": "f870c724ffb9fb1bd5f10bf65c8b784cab7ea015dbd245845dca0a77c7680f89",
- "size": 972052
+ "version": "2026-11-04.cb0bdb7",
+ "commit": "cb0bdb7d8f",
+ "at": 1793826101496,
+ "notes": "Seven more ways to trade on paper: the curve-run alert three ways, Hot out your way without red coins, quicker and to +50%, Potential from 1% out your way",
+ "file": "packages/og-finder-2026-11-04.cb0bdb7.enc",
+ "sha256": "b344bfc9d2735cefab34b707597746351b98bc39553d904a07a467e5530c0d14",
+ "size": 991796
 }
