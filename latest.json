@@ -1,9 +1,9 @@
 {
- "version": "2026-11-04.cb0bdb7",
- "commit": "cb0bdb7d8f",
- "at": 1793826101496,
- "notes": "Seven more ways to trade on paper: the curve-run alert three ways, Hot out your way without red coins, quicker and to +50%, Potential from 1% out your way",
- "file": "packages/og-finder-2026-11-04.cb0bdb7.enc",
- "sha256": "b344bfc9d2735cefab34b707597746351b98bc39553d904a07a467e5530c0d14",
- "size": 991796
+ "version": "2026-11-05.8fca08c",
+ "commit": "8fca08c4a9",
+ "at": 1793845792285,
+ "notes": "Prices read right on paper and in the terminal: a pair against SOL or a dollar coin before a pool against some token of its own",
+ "file": "packages/og-finder-2026-11-05.8fca08c.enc",
+ "sha256": "2f165781d8b0430a41c3ebfd6f86dae92d54d3430f80c8e8934c64243cec02c0",
+ "size": 992195
 }
